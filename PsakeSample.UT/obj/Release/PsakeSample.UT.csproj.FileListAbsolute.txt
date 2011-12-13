@@ -1,0 +1,5 @@
+C:\Users\li2091.SNET\Documents\Visual Studio 2010\Projects\PsakeSample\work\PsakeSample\PsakeSample.UT.dll
+C:\Users\li2091.SNET\Documents\Visual Studio 2010\Projects\PsakeSample\work\PsakeSample\PsakeSample.UT.pdb
+C:\Users\li2091.SNET\Documents\Visual Studio 2010\Projects\PsakeSample\PsakeSample.UT\obj\Release\ResolveAssemblyReference.cache
+C:\Users\li2091.SNET\Documents\Visual Studio 2010\Projects\PsakeSample\PsakeSample.UT\obj\Release\PsakeSample.UT.dll
+C:\Users\li2091.SNET\Documents\Visual Studio 2010\Projects\PsakeSample\PsakeSample.UT\obj\Release\PsakeSample.UT.pdb

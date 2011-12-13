@@ -1,0 +1,9 @@
+C:\Users\li2091.SNET\Documents\Visual Studio 2010\Projects\PsakeSample\work\PsakeSample\PsakeSample.dll
+C:\Users\li2091.SNET\Documents\Visual Studio 2010\Projects\PsakeSample\work\PsakeSample\PsakeSample.pdb
+C:\Users\li2091.SNET\Documents\Visual Studio 2010\Projects\PsakeSample\PsakeSample\obj\Release\ResolveAssemblyReference.cache
+C:\Users\li2091.SNET\Documents\Visual Studio 2010\Projects\PsakeSample\PsakeSample\obj\Release\PsakeSample.dll
+C:\Users\li2091.SNET\Documents\Visual Studio 2010\Projects\PsakeSample\PsakeSample\obj\Release\PsakeSample.pdb
+C:\Users\li2091.SNET\Documents\Visual Studio 2010\Projects\PsakeSample\PsakeSample\bin\PsakeSample.dll
+C:\Users\li2091.SNET\Documents\Visual Studio 2010\Projects\PsakeSample\PsakeSample\bin\PsakeSample.pdb
+C:\Users\li2091.SNET\Documents\Visual Studio 2010\Projects\PsakeSample\PsakeSample\bin\PsakeSample.Dao.dll
+C:\Users\li2091.SNET\Documents\Visual Studio 2010\Projects\PsakeSample\PsakeSample\bin\PsakeSample.Dao.pdb
