@@ -1,0 +1,5 @@
+psakeを使ったビルドを実施する際には、utilフォルダー内で
+
+.\psake.ps1 -buildFile "build.ps1" -taskList "Full" -framework "4.0"
+
+を実行する。
